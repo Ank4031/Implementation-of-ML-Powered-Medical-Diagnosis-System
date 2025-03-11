@@ -37,6 +37,3 @@ Ensure you have all required dependencies installed. The necessary modules are l
 ## Usage  
 Once the server is running, open `http://127.0.0.1:8000/` in your browser to access the medical diagnosis system.
 
----
-Feel free to customize and expand the system as needed!
-```
